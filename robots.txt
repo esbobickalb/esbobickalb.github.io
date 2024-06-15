@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esbobickalb.github.io/sitemap
+Sitemap: https://esbobickalb.github.io/app/sitemap
+Sitemap: https://esbobickalb.github.io/assets/sitemap
+Sitemap: https://esbobickalb.github.io/css/sitemap
+Sitemap: https://esbobickalb.github.io/includes/sitemap
+Sitemap: https://esbobickalb.github.io/item/sitemap
+Sitemap: https://esbobickalb.github.io/src/sitemap
